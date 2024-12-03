@@ -1,0 +1,16 @@
+.top-nav {
+  background-color: #232f3e;
+  color: #fff;
+}
+
+.custom-top-nav a {
+  padding: 10px;
+  font-size: 15px;
+}
+.custom-btn-font-size {
+  font-size: 14px;
+}
+.custom-top-nav .border-left {
+  border-color: #4a4a4a !important
+    ;
+}
