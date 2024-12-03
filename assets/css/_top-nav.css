@@ -14,3 +14,27 @@
   border-color: #4a4a4a !important
     ;
 }
+.basket{
+  font-size: 14px;
+  background-color: transparent;
+  
+}
+.basket i{
+  vertical-align: -3px;
+}
+.custom-dropdown-toggle::after{
+  vertical-align: 0;
+ 
+}
+.basket-menu{
+ width:  300px!important;
+}
+
+.basket-menu img{
+  width: 64px;
+  height: 64px ;
+  padding: 0;
+}
+.basket-menu ul li{
+  font-size: 13px;
+}
