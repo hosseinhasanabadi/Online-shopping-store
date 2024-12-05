@@ -38,3 +38,13 @@
 .basket-menu ul li{
   font-size: 13px;
 }
+.custom-navbar-nav{
+  font-size: 15px;
+}
+.custom-navbar-nav .nav-item{
+  position: unset;
+}
+
+/* .custom-navbar-mega{
+  position: unset;
+} =>full width mega navbar*/
