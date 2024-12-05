@@ -14,37 +14,51 @@
   border-color: #4a4a4a !important
     ;
 }
-.basket{
+.basket {
   font-size: 14px;
   background-color: transparent;
-  
 }
-.basket i{
+.basket i {
   vertical-align: -3px;
 }
-.custom-dropdown-toggle::after{
+.custom-dropdown-toggle::after {
   vertical-align: 0;
- 
 }
-.basket-menu{
- width:  300px!important;
+.basket-menu {
+  width: 300px !important;
 }
 
-.basket-menu img{
+.basket-menu img {
   width: 64px;
-  height: 64px ;
+  height: 64px;
   padding: 0;
 }
-.basket-menu ul li{
+.basket-menu ul li {
   font-size: 13px;
 }
-.custom-navbar-nav{
+.custom-navbar-nav {
   font-size: 15px;
 }
-.custom-navbar-nav .nav-item{
+.custom-navbar-nav .nav-item {
   position: unset;
 }
 
 /* .custom-navbar-mega{
   position: unset;
 } =>full width mega navbar*/
+.custom-dropdown-menu img {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.custom-dropdown-menu ul li a {
+  color: #000 !important ;
+  font-size: 12px;
+}
+.custom-dropdown-menu ul li a {
+  transition: all 0.5s ease;
+}
+.custom-dropdown-menu ul li a:hover {
+  margin-right: 7px;
+  color: #898dff !important;
+}
