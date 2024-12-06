@@ -1,0 +1,13 @@
+
+.shiping-wrapper img{
+    width: 83px;
+         height: 68px;
+         float: right;
+}
+.shiping-wrapper p{
+    
+    font-size: 12px;
+}
+.shiping-wrapper .p-1{
+    margin: 15px 0 0 0;
+}
