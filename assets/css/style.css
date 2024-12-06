@@ -1,6 +1,7 @@
 @import "_top-nav.css";
 @import "_slider.css";
 @import "_shiping.css";
+@import "_cat.css";
 @font-face {
   font-family: Vazirmatn;
   src: url(../font/Vazirmatn-Medium.woff2) format(woff2);
