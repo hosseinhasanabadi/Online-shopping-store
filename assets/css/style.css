@@ -30,3 +30,15 @@ p {
   margin: 0;
   padding: 0;
 }
+@media (max-width: 576px){
+  .mt-csm-3{
+    margin: 0!important;
+  }
+} 
+
+@media (min-width: 1200px) {
+  .container, .container-sm, .container-md, .container-lg, .container-xl {
+      max-width: 1240px !important;
+  }
+}
+
